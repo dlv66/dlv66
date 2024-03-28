@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://leeroivillamiel.portfolio.site/](https://leeroivillamiel.portfolio.site/)
 
-- 📫 How to reach me **ofl.denisleeroivillamiel@gmail.com**
+- 📫 Reach me via email at **ofl.denisleeroivillamiel@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17BgmlapX1lCKy49m2WCGdN567KsV1IE_/view?usp=sharing](https://drive.google.com/file/d/17BgmlapX1lCKy49m2WCGdN567KsV1IE_/view?usp=sharing)
+- 📄 Know about my experiences [https://bit.ly/lvillamielresume-mar2024](https://bit.ly/lvillamielresume-mar2024)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
