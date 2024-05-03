@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fogcannon3&label=Profile%20views&color=0e75b6&style=flat" alt="fogcannon3" /> </p>
 
-- 🌱 I’m currently learning **Advanced Software Engineering, Computational HCI Design, Basic Assembly Programming, Advanced Database Systems**
+- 🌱 I’m currently learning **AR/VR Development**
 
 - 👨‍💻 All of my projects are available at [https://leeroivillamiel.portfolio.site/](https://leeroivillamiel.portfolio.site/)
 
