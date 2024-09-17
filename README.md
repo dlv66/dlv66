@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fogcannon3&label=Profile%20views&color=0e75b6&style=flat" alt="fogcannon3" /> </p>
 
-- 🌱 I’m currently learning **AR/VR Development**
+- 🌱 I’m currently learning **Mobile App Development**
 
 - 👨‍💻 All of my projects are available at [https://leeroivillamiel.portfolio.site/](https://leeroivillamiel.portfolio.site/)
 
