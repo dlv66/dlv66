@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fogcannon3&label=Profile%20views&color=0e75b6&style=flat" alt="fogcannon3" /> </p>
 
-- 🌱 I’m currently learning **Mobile App Development**
+- 🌱 I’m currently learning **Operating System Development**, **Mobile App Development**, and **Basic Machine Learning**.
 
 - 📫 Reach me via email at **ofl.denisleeroivillamiel@gmail.com**
 
