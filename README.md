@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Operating System Development**, **Mobile App Development**, and **Basic Machine Learning**.
 
+- ⚡️ I'm very passionate about **UI/UX Design**, **Front-End Development**, and **Human-Computer Interactions**.
+
 - 📫 Reach me via email at **ofl.denisleeroivillamiel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
