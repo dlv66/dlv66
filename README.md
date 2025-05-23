@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fogcannon3&label=Profile%20views&color=0e75b6&style=flat" alt="fogcannon3" /> </p>
 
-- 🌱 I’m currently learning **Secure Web Development** and **Entrepreneurship in Technology**.
+- 🌱 I’m currently learning **Secure Web Development** and **Technopreneurship**.
 
 - ⚡️ I'm very passionate about **UI/UX Design**, **Front-End Development**, and **Human-Computer Interactions**.
 
