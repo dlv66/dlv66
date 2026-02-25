@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leeroi</h1>
-<h3 align="center">A 4th year Computer Science student from De La Salle University in Manila, Philippines</h3>
+<h3 align="center">A BS Computer Science graduate from De La Salle University in Manila, Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fogcannon3&label=Profile%20views&color=0e75b6&style=flat" alt="fogcannon3" /> </p>
 
-- 🌱 I’m currently learning **Secure Web Development** and **Technopreneurship**.
+- 🌱 I’m currently learning **VueJS** and **Data Analytics**.
 
 - ⚡️ I'm very passionate about **UI/UX Design**, **Front-End Development**, and **Human-Computer Interactions**.
 
