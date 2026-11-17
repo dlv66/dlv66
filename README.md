@@ -1,8 +1,8 @@
-# Hi 👋, I'm Denis Leeroi Villamiel
+<h1 align="center">Hi 👋, I'm Denis Leeroi Villamiel</h1>
 
 <h3 align="center">A BS Computer Science graduate and frontend + UI/UX specialist from Manila, Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dlv66&label=Profile views&color=0e75b6&style=flat" alt="dlv66" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fogcannon3&label=Profile%20views&color=0e75b6&style=flat" alt="fogcannon3" /> </p>
 
 - 🌱 I'm currently learning **VueJS and Data Analytics**
 
