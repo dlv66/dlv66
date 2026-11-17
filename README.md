@@ -16,7 +16,6 @@
 <a href="https://linkedin.com/in/denis-leeroi-villamiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denis-leeroi-villamiel" height="30" width="40" /></a>
 <a href="https://fb.com/leeroi.villamiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leeroi.villamiel" height="30" width="40" /></a>
 <a href="https://instagram.com/leeroi_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leeroi_v" height="30" width="40" /></a>
-<a href="https://youtube.com/@SRNoobR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@SRNoobR" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
