@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Denis Leeroi Villamiel</h1>
+<h1 align="center">Hi 👋, I'm Leeroi</h1>
 
 <h3 align="center">A BS Computer Science graduate and frontend + UI/UX specialist from Manila, Philippines</h3>
 
